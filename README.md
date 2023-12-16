@@ -7,7 +7,7 @@ This project is about recognizing emotions on faces using Machine Learning in Py
 - Python 3.x
 - pip
 - Virtualenv (optional)
-- Pretrained H5 Model (Download Here)[https://cutt.ly/awSOc9qF]
+- Pretrained H5 Model [Download Here](https://cutt.ly/awSOc9qF)
 
 ## Installation
 
